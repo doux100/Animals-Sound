@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اصوات الحيوانات</string>
+    <string name="animals">الحيوانات</string>
+    <string-array name="animal_names">
+        <item>قطة</item>
+        <item>بقرة</item>
+        <item>كلب</item>
+        <item>ماعز</item>
+        <item>حصان</item>
+        <item>جرذ</item>
+        <item>خروف</item>
+        <item>ثعبان</item>
+        <item>ذئب</item>
+        <item>فيل</item>
+        <item>زرافة</item>
+        <item>نمر</item>
+        <item>أسد</item>
+        <item>كنغر</item>
+        <item>بطريق</item>
+        <item>دولفين</item>
+        <item>أخطبوط</item>
+        <item>كوالا</item>
+        <item>وحيد القرن</item>
+        <item>شمبانزي</item>
+    </string-array>
+</resources>

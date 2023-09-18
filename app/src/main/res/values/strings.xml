@@ -1,3 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Animals Sound</string>
+    <string name="animals">Animals</string>
+    <string name="arabic" translatable="false">العربية</string>
+    <string name="english" translatable="false">English</string>
+    <string-array name="animal_names">
+        <item>Cat</item>
+        <item>Cow</item>
+        <item>Dog</item>
+        <item>Goat</item>
+        <item>Horse</item>
+        <item>Rat</item>
+        <item>Sheep</item>
+        <item>Snake</item>
+        <item>Wolf</item>
+        <item>elephant</item>
+        <item>giraffe</item>
+        <item>tiger</item>
+        <item>lion</item>
+        <item>kangaroo</item>
+        <item>penguin</item>
+        <item>dolphin</item>
+        <item>octopus</item>
+        <item>koala</item>
+        <item>rhinoceros</item>
+        <item>chimpanzee</item>
+    </string-array>
 </resources>

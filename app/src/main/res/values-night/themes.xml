@@ -1,7 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.AnimalsSound" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.AnimalsSound" parent="Theme.Material3.DayNight">
         <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">#424242</item>
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="background">
+        <item name="android:background">#343638</item>
     </style>
 </resources>
